@@ -1,0 +1,19 @@
+top:
+  - class_name: card-countdown
+    id_name:
+    name:
+    icon:
+    html: |
+      <div class="cd-count-left">
+        <span class="cd-text">距离</span>
+        <span class="cd-name" id="eventName"></span>
+        <span class="cd-time" id="daysUntil"></span>
+        <span class="cd-date" id="eventDate"></span>
+      </div>
+      <div id="countRight" class="cd-count-right"></div>
+  - class_name: card-boringbay
+    id_name:
+    name: 无聊湾
+    icon: fas fa-face-meh
+    html: |
+      <a title="无聊湾 🥱 The Boring Bay" href="https://boringbay.com"><img height="18px" src="https://boringbay.com/api/badge/blog.rusin.cn.mt"></img></a>

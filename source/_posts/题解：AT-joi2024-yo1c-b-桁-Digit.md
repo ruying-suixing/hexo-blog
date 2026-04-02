@@ -1,0 +1,48 @@
+---
+title: 题解：AT_joi2024_yo1c_b 桁 (Digit)
+date: 2026-03-30 19:21:06
+katex: true
+top_img: /img/2026/top_img1.webp
+cover: /img/2026/top_img1.webp
+tags: 
+    - 题解
+    - C++
+categories: 洛谷
+ai:
+    - 本文讲述了如何使用 C++ 完成洛谷的 CF2139B Cake Collection，思路清晰、排版精美
+---
+
+# AT_joi2024_yo1c_b 桁 (Digit)题解
+
+[题目传送门](https://www.luogu.com.cn/problem/AT_joi2024_yo1c_b "题目传送门")
+
+## 题目大意
+
+给出 $a, b$，求 $a+b$ 的位数。
+
+## 思路引导
+
+{% note warning flat %}
+**提问**
+如何统计 $a+b$ 的位数？
+{% endnote %}
+
+{% note success flat %}
+**成功**
+我们将 $a+b$ 转化为字符串~~函数大法好~~，输出 $a+b$ 的长度即可。
+{% endnote %}
+
+## 核心代码
+
+```cpp
+#include<bits/stdc++.h>
+using namespace std; 
+int a, b; 
+int main() {
+
+	cin>>a>>b;
+	cout<<to_string(a+b).size();//需使用洛谷IDE中C++14 (GCC 9)及以上版本，蓝C++会CE
+	return 0;
+
+}
+```

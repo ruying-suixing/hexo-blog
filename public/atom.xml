@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/atom.xsl" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>如影随形的博客</title>
+  
+  <subtitle>一个人写博客的日子</subtitle>
+  <link href="https://blog.rusin.cn.mt/atom.xml" rel="self"/>
+  
+  <link href="https://blog.rusin.cn.mt/"/>
+  <updated>2026-03-31T11:13:45.316Z</updated>
+  <id>https://blog.rusin.cn.mt/</id>
+  
+  <author>
+    <name>Ruyingsuixing</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.rusin.cn.mt/article/101/"/>
+    <id>https://blog.rusin.cn.mt/article/101/</id>
+    <published>2026-04-02T09:24:31.889Z</published>
+    <updated>2026-03-31T11:13:45.316Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>题解：P14730 [ICPC 2022 Seoul R] Palindrome Type</title>
+    <link href="https://blog.rusin.cn.mt/article/103/"/>
+    <id>https://blog.rusin.cn.mt/article/103/</id>
+    <published>2026-03-30T13:35:32.000Z</published>
+    <updated>2026-03-30T13:39:35.474Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;P14730-ICPC-2022-Seoul-R-Palindr</summary>
+      
+    
+    
+    
+    <category term="洛谷" scheme="https://blog.rusin.cn.mt/categories/%E6%B4%9B%E8%B0%B7/"/>
+    
+    
+    <category term="题解" scheme="https://blog.rusin.cn.mt/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="C++" scheme="https://blog.rusin.cn.mt/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解：AT_joi2024_yo1c_b 桁 (Digit)</title>
+    <link href="https://blog.rusin.cn.mt/article/103/"/>
+    <id>https://blog.rusin.cn.mt/article/103/</id>
+    <published>2026-03-30T11:21:06.000Z</published>
+    <updated>2026-03-30T12:24:06.037Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;AT-joi2024-yo1c-b-桁-Digit-题解&quot;&gt;&lt;a</summary>
+      
+    
+    
+    
+    <category term="洛谷" scheme="https://blog.rusin.cn.mt/categories/%E6%B4%9B%E8%B0%B7/"/>
+    
+    
+    <category term="题解" scheme="https://blog.rusin.cn.mt/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="C++" scheme="https://blog.rusin.cn.mt/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>题解：CF2139B Cake Collection</title>
+    <link href="https://blog.rusin.cn.mt/article/103/"/>
+    <id>https://blog.rusin.cn.mt/article/103/</id>
+    <published>2026-03-23T13:33:21.000Z</published>
+    <updated>2026-03-30T12:24:04.317Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;CF2139B-Cake-Collection-题解（全题解区最</summary>
+      
+    
+    
+    
+    <category term="洛谷" scheme="https://blog.rusin.cn.mt/categories/%E6%B4%9B%E8%B0%B7/"/>
+    
+    
+    <category term="题解" scheme="https://blog.rusin.cn.mt/tags/%E9%A2%98%E8%A7%A3/"/>
+    
+    <category term="C++" scheme="https://blog.rusin.cn.mt/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费获取 .dpdns.org 域名后缀并部署 github 仓库</title>
+    <link href="https://blog.rusin.cn.mt/article/102/"/>
+    <id>https://blog.rusin.cn.mt/article/102/</id>
+    <published>2026-03-23T13:14:10.000Z</published>
+    <updated>2026-03-30T12:29:17.864Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;前提&quot;&gt;&lt;a href=&quot;#前提&quot; class=&quot;headerl</summary>
+      
+    
+    
+    
+    <category term="网站开发" scheme="https://blog.rusin.cn.mt/categories/%E7%BD%91%E7%AB%99%E5%BC%80%E5%8F%91/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>博客迁移分流说明</title>
+    <link href="https://blog.rusin.cn.mt/article/102/"/>
+    <id>https://blog.rusin.cn.mt/article/102/</id>
+    <published>2026-03-20T13:43:41.000Z</published>
+    <updated>2026-03-31T11:15:35.122Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;博客迁移分流说明&quot;&gt;&lt;a href=&quot;#博客迁移分流说明&quot; cl</summary>
+      
+    
+    
+    
+    <category term="其他" scheme="https://blog.rusin.cn.mt/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+    <category term="公告" scheme="https://blog.rusin.cn.mt/tags/%E5%85%AC%E5%91%8A/"/>
+    
+  </entry>
+  
+</feed>
